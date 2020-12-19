@@ -1,0 +1,26 @@
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==3.0.4
+comtypes==1.1.7
+idna==2.10
+keyboard==0.13.5
+MouseInfo==0.1.3
+Pillow==8.0.1
+PyAudio @ file:///D:/Document/Software/Python/vitual_assistance-env/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+PyAutoGUI==0.9.52
+PyGetWindow==0.0.9
+PyMsgBox==1.0.9
+pyperclip==1.8.1
+pypiwin32==223
+PyRect==0.1.4
+PyScreeze==0.1.26
+pyserial==3.5
+pyttsx3==2.90
+PyTweening==1.0.3
+pywhatkit==3.8
+pywin32==300
+requests==2.25.0
+soupsieve==2.1
+SpeechRecognition==3.8.1
+urllib3==1.26.2
+wikipedia==1.4.0
